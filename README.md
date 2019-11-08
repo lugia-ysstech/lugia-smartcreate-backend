@@ -1,12 +1,14 @@
-# 支持智能创建模板页面的后台
+## 支持智能创建模板页面的后台
 
+智能创建功能使用引导（ https://github.com/lugia-ysstech/lugia-smartcreate-lugia ）
 
-## QuickStart
-
-
+#### QuickStart
 
 ```bash
+安装依赖
 $ yarn
+
+启动项目
 $ yarn start
 ```
 
