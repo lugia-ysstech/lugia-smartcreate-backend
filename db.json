@@ -1,0 +1,332 @@
+{
+  "fundData": [
+    {
+      "fundCode": "100234",
+      "fundName": "信心基金",
+      "stock": "100",
+      "cost": "10",
+      "marketValue": "300",
+      "ratio": "10"
+    },
+    {
+      "fundCode": "5678",
+      "fundName": "梵蒂冈地方",
+      "stock": "12",
+      "cost": "12",
+      "marketValue": "678",
+      "ratio": "56"
+    },
+    {
+      "fundCode": "34567",
+      "fundName": "广达基金",
+      "stock": "10",
+      "cost": "20",
+      "marketValue": "100",
+      "ratio": "11"
+    },
+    {
+      "fundCode": "82341",
+      "fundName": "8234银行",
+      "stock": "12",
+      "capitalizedCost": "20",
+      "marketValue": "60",
+      "ratio": "8"
+    },
+    {
+      "fundCode": "10001",
+      "fundName": "信发基金",
+      "stock": "32",
+      "capitalizedCost": "40",
+      "marketValue": "60",
+      "ratio": "11"
+    },
+    {
+      "fundCode": "10002",
+      "fundName": "蓝信基金",
+      "stock": "20",
+      "capitalizedCost": "2",
+      "marketValue": "20",
+      "ratio": "0.5"
+    },
+    {
+      "fundCode": "10012",
+      "fundName": "建光银行",
+      "stock": "115",
+      "capitalizedCost": "12",
+      "marketValue": "20",
+      "ratio": "7"
+    },
+    {
+      "fundCode": "10013",
+      "fundName": "紫岛基金",
+      "stock": "11",
+      "capitalizedCost": "34",
+      "marketValue": "68",
+      "ratio": "1.2"
+    },
+    {
+      "fundCode": "10213",
+      "fundName": "中利智能",
+      "stock": "40",
+      "capitalizedCost": "5",
+      "marketValue": "76",
+      "ratio": "12"
+    },
+    {
+      "fundCode": "10224",
+      "fundName": "广非证券",
+      "stock": "66",
+      "capitalizedCost": "37",
+      "marketValue": "40",
+      "ratio": "4"
+    },
+    {
+      "fundCode": "10246",
+      "fundName": "华岛银行",
+      "stock": "68",
+      "capitalizedCost": "21",
+      "marketValue": "15",
+      "ratio": "0.3"
+    },
+    {
+      "fundCode": "13401",
+      "fundName": "青龙重工",
+      "stock": "120",
+      "capitalizedCost": "260",
+      "marketValue": "1260",
+      "ratio": "18.6"
+    },
+    {
+      "fundCode": "10881",
+      "fundName": "广达智能",
+      "stock": "12",
+      "capitalizedCost": "95",
+      "marketValue": "146",
+      "ratio": "1.1"
+    },
+    {
+      "fundCode": "19561",
+      "fundName": "华欣证券",
+      "stock": "12",
+      "capitalizedCost": "50",
+      "marketValue": "50",
+      "ratio": "0.5"
+    },
+    {
+      "fundCode": "21013",
+      "fundName": "立辛保险",
+      "stock": "11",
+      "capitalizedCost": "34",
+      "marketValue": "68",
+      "ratio": "1.2"
+    },
+    {
+      "fundCode": "21213",
+      "fundName": "清发基金",
+      "stock": "40",
+      "capitalizedCost": "5",
+      "marketValue": "76",
+      "ratio": "12"
+    },
+    {
+      "fundCode": "21005",
+      "fundName": "西非证券",
+      "stock": "32",
+      "capitalizedCost": "40",
+      "marketValue": "60",
+      "ratio": "11"
+    },
+    {
+      "fundCode": "21006",
+      "fundName": "间哒银行",
+      "stock": "20",
+      "capitalizedCost": "2",
+      "marketValue": "20",
+      "ratio": "0.5"
+    },
+    {
+      "fundCode": "21014",
+      "fundName": "非金资产",
+      "stock": "115",
+      "capitalizedCost": "12",
+      "marketValue": "20",
+      "ratio": "7"
+    },
+    {
+      "fundCode": "21226",
+      "fundName": "任工智能",
+      "stock": "66",
+      "capitalizedCost": "37",
+      "marketValue": "40",
+      "ratio": "4"
+    },
+    {
+      "fundCode": "21246",
+      "fundName": "光岛银行",
+      "stock": "68",
+      "capitalizedCost": "21",
+      "marketValue": "15",
+      "ratio": "0.3"
+    },
+    {
+      "fundCode": "23401",
+      "fundName": "重光证券",
+      "stock": "120",
+      "capitalizedCost": "160",
+      "marketValue": "260",
+      "ratio": "18.6"
+    },
+    {
+      "fundCode": "20881",
+      "fundName": "广达智能",
+      "stock": "12",
+      "capitalizedCost": "95",
+      "marketValue": "146",
+      "ratio": "1.1"
+    },
+    {
+      "fundCode": "29561",
+      "fundName": "华欣证券",
+      "stock": "12",
+      "capitalizedCost": "50",
+      "marketValue": "50",
+      "ratio": "0.5"
+    },
+    {
+      "fundCode": "30215",
+      "fundName": "中利智能",
+      "stock": "40",
+      "capitalizedCost": "5",
+      "marketValue": "76",
+      "ratio": "12"
+    },
+    {
+      "fundCode": "30224",
+      "fundName": "广非证券",
+      "stock": "66",
+      "capitalizedCost": "37",
+      "marketValue": "40",
+      "ratio": "4"
+    },
+    {
+      "fundCode": "30201",
+      "fundName": "信发基金",
+      "stock": "32",
+      "capitalizedCost": "40",
+      "marketValue": "60",
+      "ratio": "11"
+    },
+    {
+      "fundCode": "30202",
+      "fundName": "蓝信基金",
+      "stock": "20",
+      "capitalizedCost": "2",
+      "marketValue": "20",
+      "ratio": "0.5"
+    },
+    {
+      "fundCode": "30212",
+      "fundName": "建光银行",
+      "stock": "115",
+      "capitalizedCost": "12",
+      "marketValue": "20",
+      "ratio": "7"
+    },
+    {
+      "fundCode": "30213",
+      "fundName": "紫岛基金",
+      "stock": "11",
+      "capitalizedCost": "34",
+      "marketValue": "68",
+      "ratio": "1.2"
+    },
+    {
+      "fundCode": "30246",
+      "fundName": "华岛银行",
+      "stock": "68",
+      "capitalizedCost": "21",
+      "marketValue": "15",
+      "ratio": "0.3"
+    },
+    {
+      "fundCode": "33401",
+      "fundName": "青龙重工",
+      "stock": "120",
+      "capitalizedCost": "260",
+      "marketValue": "1260",
+      "ratio": "18.6"
+    },
+    {
+      "fundCode": "30881",
+      "fundName": "广达智能",
+      "stock": "12",
+      "capitalizedCost": "95",
+      "marketValue": "146",
+      "ratio": "1.1"
+    },
+    {
+      "fundCode": "39561",
+      "fundName": "华欣证券",
+      "stock": "12",
+      "capitalizedCost": "50",
+      "marketValue": "50",
+      "ratio": "0.5"
+    }
+  ],
+  "user": {},
+  "major": [
+    "计算机",
+    "物流管理",
+    "艺术设计"
+  ],
+  "studentInfo": [
+    {
+      "name": "脆卜卜",
+      "sex": 2,
+      "stuNumber": 11001,
+      "classNumber": 1,
+      "grades": 86,
+      "major": "计算机"
+    },
+    {
+      "name": "夹心心",
+      "sex": 1,
+      "stuNumber": 11002,
+      "classNumber": 1,
+      "grades": 78,
+      "major": "计算机"
+    },
+    {
+      "name": "瑞逛逛",
+      "sex": 1,
+      "stuNumber": 12003,
+      "classNumber": 2,
+      "grades": 100,
+      "major": "物流管理"
+    },
+    {
+      "name": "瑞逛逛",
+      "sex": 2,
+      "stuNumber": 12003,
+      "classNumber": 2,
+      "grades": 46,
+      "major": "物流管理"
+    },
+    {
+      "name": "玉萌萌",
+      "sex": 2,
+      "stuNumber": 13004,
+      "classNumber": 3,
+      "grades": 98,
+      "major": "艺术设计"
+    },
+    {
+      "name": "椰果果",
+      "sex": 2,
+      "stuNumber": 13005,
+      "classNumber": 3,
+      "grades": 22,
+      "major": "艺术设计"
+    }
+  ]
+}
